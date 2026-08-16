@@ -83,18 +83,20 @@ society-hack/
 ├── docs/
 │   └── ai-workflow.md           # AI 调用本仓库的 10 步操作流程
 └── hacks/
-    ├── ai-research-undergrad.md # 本科生 6-12 个月进入 AI 科研闭环
-    ├── learn-llm-by-building.md # 以端到端项目驱动学习大语言模型
-    └── build-in-public.md       # 公开构建：把产出转化为机会
+    ├── ai-research-undergrad.md   # 本科生 6-12 个月进入 AI 科研闭环
+    ├── learn-llm-by-building.md   # 以端到端项目驱动学习大语言模型
+    ├── build-in-public.md         # 公开构建：把产出转化为机会
+    └── grad-school-admissions.md  # 研究生申请的录取-完成-就业三层路径
 ```
 
 ### Hack 索引
 
 | id | 领域 | 状态 | 证据 | 目标 |
 |---|---|---|---|---|
-| `ai-research-undergrad` | academia/research-ai | draft | C | 本科生 6-12 个月产出可验证 AI 研究产出并进入更强课题组/申请机会 |
-| `learn-llm-by-building` | learning/engineering | draft | C | 以项目驱动掌握 LLM 的系统理解与独立构建能力 |
-| `build-in-public` | career/visibility | draft | B/C | 把真实产出公开转化为导师、合作、实习、客户或招聘机会 |
+| `ai-research-undergrad` | academia/research-ai | draft | B | 本科生 6-12 个月产出可验证 AI 研究产出并进入更强课题组/申请机会（狭窄化后：持续高强度参与与 STEM 升学显著相关；AI 专项证据缺失已显式标注） |
+| `learn-llm-by-building` | learning/engineering | draft | B | 以项目驱动掌握 LLM 的系统理解与独立构建能力（校准后：有引导的项目学习；纯从零硬造对新手被文献预测为负） |
+| `build-in-public` | career/visibility | draft | B | 把真实产出公开转化为导师、合作、实习、客户或招聘机会（分层后：可见性/入站接触证据坚实，转化为正式机会是尾部事件——诚实标注） |
+| `grad-school-admissions` | academia/grad-admissions | draft | B | 研究生申请按录取/完成/就业三层分叉，每层动作不同（证据最丰富的领域：联邦普查 + 双 meta 分析 + 纵向队列） |
 
 ## 状态生命周期
 
